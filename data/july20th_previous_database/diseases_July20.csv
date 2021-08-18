@@ -1,0 +1,553 @@
+ID_diseases,disease_name
+DIS1,11-Beta-Hydroxylase Deficiency
+DIS2,17-Hydroxysteroid Dehydrogenase Deficiency
+DIS3,21-Hydroxylase Deficiency
+DIS4,"46, Xy Disorders Of Sex Development"
+DIS5,Acquired Immunodeficiency Syndrome
+DIS6,Acrodermatitis Continua Of Hallopeau
+DIS7,Acrodermatitis Enteropathica
+DIS8,Active Tuberculosis
+DIS9,Acute Hiv Infection
+DIS10,Acute Intermittent Porphyria
+DIS11,Acute Lymphocytic Leukemia
+DIS12,Acute Periodontitis
+DIS13,Adult Acute Lymphocytic Leukemia
+DIS14,Agenesis Of Corpus Callosum
+DIS15,Age Related Macular Degeneration
+DIS16,"Albinism, Oculocutaneous"
+DIS17,"Albinism, Oculocutaneous, Type Ib (Disorder)"
+DIS18,"Albinism, Oculocutaneous, Type I, Temperature-Sensitive"
+DIS19,Alkaptonuria
+DIS20,Alopecia
+DIS21,Alpha 1-Antitrypsin Deficiency
+DIS22,Alpha-Sarcoglycanopathies
+DIS23,Alpha-Thalassemia
+DIS24,"Amyotrophic Lateral Sclerosis 2, Juvenile (Disorder)"
+DIS25,Amyotrophic Lateral Sclerosis 5
+DIS26,Anemia
+DIS27,"Anemia, Nonspherocytic Hemolytic, Due To G6Pd Deficiency"
+DIS28,"Anemia, Sickle Cell"
+DIS29,Anhaptoglobinemia
+DIS30,Antiphospholipid Syndrome
+DIS31,Antithrombin Iii Deficiency
+DIS32,Arrhythmogenic Right Ventricular Dysplasia
+DIS33,"Arterial Calcification, Generalized, Of Infancy, 2"
+DIS34,Arterial Tortuosity Syndrome
+DIS35,"Arthrogryposis, Distal, With Impaired Proprioception And Touch"
+DIS36,Aspartylglucosaminuria
+DIS37,Asymmetric Septal Hypertrophy
+DIS38,"Ataxia, Spastic, 2, Autosomal Recessive (Disorder)"
+DIS39,Ataxia Telangiectasia
+DIS40,Ataxia With Vitamin E Deficiency
+DIS41,Auditory Neuropathy
+DIS42,Auditory Neuropathy Spectrum Disorder
+DIS43,"Autoimmune Polyendocrinopathy Syndrome, Type I, Autosomal Dominant"
+DIS44,Autosomal Recessive Polycystic Kidney Disease
+DIS45,Avellino Corneal Dystrophy
+DIS46,Bacteremia
+DIS47,"Bacteremia, Susceptibility To, 2"
+DIS48,Bardet-Biedl Syndrome
+DIS49,Bardet-Biedl Syndrome 10
+DIS50,Bardet-Biedl Syndrome 2 (Disorder)
+DIS51,"Basal Ganglia Disease, Biotin-Responsive"
+DIS52,"Best Vitelliform Macular Dystrophy, Multifocal (Disorder)"
+DIS53,Beta^0^ Thalassemia
+DIS54,Beta-Knossos-Thalassemia
+DIS55,Beta^+^ Thalassemia
+DIS56,Beta Thalassemia
+DIS57,Bifid Nose With Or Without Anorectal And Renal Anomalies
+DIS58,Biotinidase Deficiency
+DIS59,Bipolar I Disorder
+DIS60,Bladder Neoplasm
+DIS61,Blood Pressure
+DIS62,Blood Pressure Finding
+DIS63,Body Height
+DIS64,Body Mass Index
+DIS65,"Breast Cancer, Familial"
+DIS66,Breast Carcinoma
+DIS67,"Breast Carcinoma, Sporadic"
+DIS68,"Breast-Ovarian Cancer, Familial, Susceptibility To, 1"
+DIS69,"Breast-Ovarian Cancer, Familial, Susceptibility To, 2"
+DIS70,Bronchiectasis With Or Without Elevated Sweat Chloride 1
+DIS71,Brown Oculocutaneous Albinism
+DIS72,"Buruli Ulcer, Susceptibility To"
+DIS73,"Candidiasis, Familial, 2"
+DIS74,Carcinoma Of Bladder
+DIS75,Cardiomyopathies
+DIS76,"Cardiomyopathy, Dilated, 1D (Disorder)"
+DIS77,"Cardiomyopathy, Familial Hypertrophic, 1 (Disorder)"
+DIS78,"Cardiomyopathy, Familial Hypertrophic, 2"
+DIS79,"Cardiomyopathy, Familial Idiopathic"
+DIS80,"Cardiomyopathy, Familial Restrictive, 3 (Disorder)"
+DIS81,"Cardiomyopathy, Hypertrophic, Familial"
+DIS82,Cardiovascular Diseases
+DIS83,Cataract
+DIS84,"Cataract 4, Multiple Types"
+DIS85,"Cataract, Congenital, Cerulean Type, 3"
+DIS86,"Cataract, Crystalline Aculeiform"
+DIS87,"Cataract, Punctate, Progressive Juvenile-Onset"
+DIS88,"Central Core Disease, Autosomal Recessive"
+DIS89,Central Core Myopathy (Disorder)
+DIS90,"Ceroid Lipofuscinosis, Neuronal, 7"
+DIS91,Cervical Cancer
+DIS92,Cervix Carcinoma
+DIS93,Charcot-Marie-Tooth Disease
+DIS94,"Charcot-Marie-Tooth Disease, Axonal, Type 2K"
+DIS95,"Charcot-Marie-Tooth Disease, Axonal, Type 2X"
+DIS96,"Charcot-Marie-Tooth Disease, Type 2B1"
+DIS97,"Charcot-Marie-Tooth Disease, Type 4A, Axonal Form"
+DIS98,"Charcot-Marie-Tooth Disease, Type 4A (Disorder)"
+DIS99,"Charcot-Marie-Tooth Disease, Type 4C"
+DIS100,"Charcot-Marie-Tooth Neuropathy, Type 4B2, With Early-Onset Glaucoma"
+DIS101,Chester-Type Porphyria
+DIS102,Childhood Acute Lymphoblastic Leukemia
+DIS103,Chronic Active Hepatitis
+DIS104,Chronic Obstructive Airway Disease
+DIS105,Chylomicron Retention Disease
+DIS106,Citrullinemia
+DIS107,Classical Galactosemia
+DIS108,Classical Phenylketonuria
+DIS109,Colitis
+DIS110,Colon Carcinoma
+DIS111,"Colorectal Adenomatous Polyposis, Autosomal Recessive"
+DIS112,Colorectal Cancer
+DIS113,Colorectal Carcinoma
+DIS114,Colorectal Neoplasms
+DIS115,Complement Component 7 Deficiency
+DIS116,Complete Hydatidiform Mole
+DIS117,Cone-Rod Dystrophy 18
+DIS118,Cone-Rod Dystrophy 3 (Disorder)
+DIS119,Cone-Rod Dystrophy 9
+DIS120,Congenital Adrenal Hyperplasia Due To 11-Beta-Hydroxylase Deficiency
+DIS121,Congenital Adrenal Hyperplasia Due To 21 Hydroxylase Deficiency
+DIS122,Congenital Bilateral Aplasia Of Vas Deferens
+DIS123,"Congenital Disorder Of Glycosylation, Type Iil"
+DIS124,"Congenital Disorder Of Glycosylation, Type Iin"
+DIS125,"Corneal Dystrophy, Lattice Type 3"
+DIS126,Coronary Artery Disease
+DIS127,Cranioectodermal Dysplasia 3
+DIS128,C-Reactive Protein Measurement
+DIS129,Creutzfeldt-Jakob Disease
+DIS130,"Creutzfeldt-Jakob Disease, Familial"
+DIS131,"Creutzfeldt-Jakob Disease, Heidenhain Variant"
+DIS132,"Creutzfeldt-Jakob Disease, Sporadic"
+DIS133,"Crigler NAjjar Syndrome, Type 1"
+DIS134,Crohn Disease
+DIS135,Cryptorchidism
+DIS136,Cystic Fibrosis
+DIS137,"Cystinosis, Benign, Nonnephropathic"
+DIS138,Cystinuria
+DIS139,"Cystinuria, Type A"
+DIS140,"Cystinuria, Type A-B"
+DIS141,"Cystinuria, Type B"
+DIS142,"Deafness, Autosomal Dominant 23"
+DIS143,"Deafness, Autosomal Dominant 3A (Disorder)"
+DIS144,"Deafness, Autosomal Recessive 10"
+DIS145,"Deafness, Autosomal Recessive 102"
+DIS146,"Deafness, Autosomal Recessive 105"
+DIS147,"Deafness, Autosomal Recessive 1A (Disorder)"
+DIS148,"Deafness, Autosomal Recessive 31"
+DIS149,"Deafness, Autosomal Recessive 53"
+DIS150,"Deafness, Autosomal Recessive 66"
+DIS151,"Deafness, Autosomal Recessive 79"
+DIS152,"Deafness, Autosomal Recessive 84A"
+DIS153,"Deafness, Autosomal Recessive (Disorder)"
+DIS154,"Deafness, Childhood-Onset Neurosensory, Autosomal Recessive 8"
+DIS155,"Deafness, Congenital, With Inner Ear Agenesis, Microtia, And Microdontia"
+DIS156,"Deafness, Digenic, Gjb2/Gjb3 (Disorder)"
+DIS157,"Deafness, Digenic, Gjb2/Gjb6 (Disorder)"
+DIS158,Deficiency Of Glucose-6-Phosphate Dehydrogenase
+DIS159,Deficiency Of Monooxygenase
+DIS160,Deficiency Of Pyruvate Kinase
+DIS161,Diabetes
+DIS162,Diabetes Mellitus
+DIS163,"Diabetes Mellitus, Insulin-Dependent"
+DIS164,"Diabetes Mellitus, Non-Insulin-Dependent"
+DIS165,Diabetic Nephropathy
+DIS166,Disorder Of Achilles Tendon
+DIS167,Drug-Induced Liver Disease
+DIS168,Dwarfism
+DIS169,Early Myoclonic Encephalopathy
+DIS170,"Ectodermal Dysplasia 11A, Hypohidrotic/Hair/Tooth Type, Autosomal Dominant"
+DIS171,"Ectodermal Dysplasia 11B, Hypohidrotic/Hair/Tooth Type, Autosomal Recessive"
+DIS172,"Ectodermal Dysplasia 3, Anhidrotic"
+DIS173,Ectodermal Dysplasia-Syndactyly Syndrome 1
+DIS174,Elliptocytosis 2 (Disorder)
+DIS175,"Encephalitis, St. Louis"
+DIS176,Encephalopathy Adverse Event
+DIS177,Enlarged Vestibular Aqueduct
+DIS178,"Epilepsies, Partial"
+DIS179,"Epilepsy, Familial Adult Myoclonic, 5"
+DIS180,"Epilepsy, Familial Temporal Lobe, 5"
+DIS181,"Epilepsy, Progressive Myoclonic 3"
+DIS182,"Epilepsy, Progressive Myoclonic, 8"
+DIS183,"Epilepsy, Temporal Lobe"
+DIS184,Estren-Dameshek Variant Of Fanconi Anemia
+DIS185,Estren-Dameshek Variant Of Fanconi Pancytopenia
+DIS186,Estrogen Resistance
+DIS187,Exfoliation Syndrome
+DIS188,"Factor V And Factor Viii, Combined Deficiency Of, 2"
+DIS189,Factor Vii Deficiency
+DIS190,Familial Cold Urticaria
+DIS191,Familial (Fpah)
+DIS192,Familial Mediterranean Fever
+DIS193,Familial Medullary Thyroid Carcinoma
+DIS194,Familial Porphyria Cutanea Tarda
+DIS195,Fanconi Anemia
+DIS196,"Fanconi Anemia, Complementation Group A (Disorder)"
+DIS197,"Fanconi Anemia, Complementation Group C"
+DIS198,Fanconi Anemia Complementation Group G
+DIS199,Fatal Familial Insomnia
+DIS200,Febrile Convulsions
+DIS201,"Febrile Seizures, Familial, 11"
+DIS202,Fetal Hemoglobin Quantitative Trait Locus 1
+DIS203,Focal Glomerulosclerosis
+DIS204,"Focal Segmental Glomerulosclerosis 4, Susceptibility To"
+DIS205,Frontotemporal Dementia
+DIS206,Fucosidase Deficiency Disease
+DIS207,"Fundus Dystrophy, Pseudoinflammatory, Of Sorsby"
+DIS208,Gaucher Disease
+DIS209,"Gaucher Disease, Type 1"
+DIS210,Generalized Pustular Psoriasis
+DIS211,"Genetic Diseases, Inborn"
+DIS212,Gestational Trophoblastic Disease
+DIS213,Ghosal Hematodiaphyseal Syndrome
+DIS214,Giant Axonal Neuropathy 1
+DIS215,"Glaucoma 3, Primary Congenital, A"
+DIS216,"Glaucoma, Primary Open Angle, Adult-Onset (Disorder)"
+DIS217,"Glaucoma, Primary Open Angle, Juvenile-Onset"
+DIS218,Glucocorticoid Deficiency 4 With Or Without Mineralocorticoid Deficiency
+DIS219,"Glutaric Aciduria, Type 1"
+DIS220,Glycogen Storage Disease Iiia
+DIS221,Glycogen Storage Disease Type I
+DIS222,Glycogen Storage Disease Type Ii
+DIS223,Glycogen Storage Disease Type Iii
+DIS224,Glycogen Storage Disease Type V
+DIS225,"Gm2-Gangliosidosis, Adult Chronic Type"
+DIS226,"Gm2-Gangliosidosis, Variant B1"
+DIS227,Gout
+DIS228,Gronblad-Strandberg Syndrome
+DIS229,"Growth Retardation, Alopecia, Pseudoanodontia And Optic Atrophy"
+DIS230,Heart Diseases
+DIS231,"Hemochromatosis, Type 1"
+DIS232,"Hemochromatosis, Type 4"
+DIS233,Hemoglobin E/Beta Thalassemia Disease
+DIS234,Henoch-Schoenlein Purpura
+DIS235,"Hepatitis B Virus, Susceptibility To"
+DIS236,Hepatitis C
+DIS237,"Hepatitis C, Chronic"
+DIS238,Hepatoerythropoietic Porphyria
+DIS239,Hepatolenticular Degeneration
+DIS240,Hereditary Breast And Ovarian Cancer Syndrome
+DIS241,Hereditary Hemochromatosis
+DIS242,Hereditary Motor And Sensory-Neuropathy Type Ii
+DIS243,Hereditary Nonpolyposis Colorectal Cancer
+DIS244,Hereditary Pyropoikilocytosis
+DIS245,"Hexosaminidase A Deficiency, Adult Type"
+DIS246,"Hip Dysplasia, Beukes Type"
+DIS247,Hirschsprung Disease
+DIS248,Histiocytosis With Joint Contractures And Sensorineural Deafness
+DIS249,Hiv Infections
+DIS250,Homocysteine Measurement
+DIS251,Hsan Type Iv
+DIS252,Huntington Disease-Like 1
+DIS253,Hydrophthalmos
+DIS254,Hydroxymethylbilane Synthase Deficiency
+DIS255,"Hyperandrogenism, Nonclassic Type, Due To 21-Hydroxylase Deficiency"
+DIS256,"Hypercholesterolemia, Familial"
+DIS257,"Hyperhomocysteinemia, Thrombotic, Cbs-Related"
+DIS258,Hyperlipoproteinemia Type Iia
+DIS259,Hyperphenylalaninaemia
+DIS260,"Hyperphenylalaninemia, Non-Pku Mild"
+DIS261,Hypertensive Disease
+DIS262,Hypertrophic Cardiomyopathy
+DIS263,Hypohaptoglobinemia (Disorder)
+DIS264,Hypoparathyroidism-Retardation-Dysmorphism Syndrome
+DIS265,"Hypothyroidism, Congenital, Nongoitrous, 4"
+DIS266,"Hypotonia, Infantile, With Psychomotor Retardation"
+DIS267,"Hypotonia, Infantile, With Psychomotor Retardation And Characteristic Facies 2"
+DIS268,Hypotrichosis 11
+DIS269,Hypotrichosis 6
+DIS270,Hypotrichosis Simplex
+DIS271,"Ichthyosiform Erythroderma, Congenital"
+DIS272,"Ichthyosis, Congenital, Autosomal Recessive 6"
+DIS273,"Ichthyosis, Congenital, Autosomal Recessive 9"
+DIS274,"Ichthyosis, Hystrix-Like, With Deafness"
+DIS275,"Ichthyosis, Lamellar, 3"
+DIS276,"Ichthyosis, Leukocyte Vacuoles, Alopecia, And Sclerosing Cholangitis"
+DIS277,"Ichthyosis, Nonlamellar And Nonerythrodermic, Congenital, Autosomal Recessive"
+DIS278,Idiopathic Hypertrophic Subaortic Stenosis
+DIS279,Idiopathic Pulmonary Arterial Hypertension
+DIS280,Idiopathic Pulmonary Fibrosis
+DIS281,Immunodeficiency 23
+DIS282,Immunodeficiency 27A
+DIS283,Immunodeficiency 29
+DIS284,"Inclusion Body Myopathy, Autosomal Recessive"
+DIS285,Infection Caused By Helicobacter Pylori
+DIS286,Inflammatory Bowel Diseases
+DIS287,Iron Deficiency
+DIS288,Iron Overload
+DIS289,"Isolated Growth Hormone Deficiency, Type Ii"
+DIS290,Isovaleryl-Coa Dehydrogenase Deficiency
+DIS291,"Jaundice, Chronic Idiopathic"
+DIS292,Job Syndrome
+DIS293,Juvenile Nephropathic Cystinosis (Disorder)
+DIS294,Juvenile-Onset Vitelliform Macular Dystrophy
+DIS295,Keloid
+DIS296,"Kenny-Caffey Syndrome, Type 1"
+DIS297,"Knuckle Pads, Leuconychia And Sensorineural Deafness"
+DIS298,Lactase Persistence
+DIS299,"Lactic Acidosis, Congenital Infantile, Due To Lad Deficiency"
+DIS300,"Lamellar Ichthyosis, Type 2"
+DIS301,Laron Syndrome
+DIS302,Leigh Disease
+DIS303,Leigh Syndrome Due To Mitochondrial Complex I Deficiency
+DIS304,Leigh Syndrome Due To Mitochondrial Complex Ii Deficiency
+DIS305,Leigh Syndrome Due To Mitochondrial Complex Iii Deficiency
+DIS306,Leigh Syndrome Due To Mitochondrial Complex Iv Deficiency
+DIS307,Leigh Syndrome Due To Mitochondrial Complex V Deficiency
+DIS308,Leukemia
+DIS309,Limb-Girdle Muscular Dystrophy Type 2A
+DIS310,"Limb-Girdle Muscular Dystrophy, Type 2E"
+DIS311,Lipoid Proteinosis Of Urbach And Wiethe
+DIS312,Liver And Intrahepatic Biliary Tract Carcinoma
+DIS313,Liver Carcinoma
+DIS314,Liver Diseases
+DIS315,Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 2
+DIS316,Lupus Erythematosus
+DIS317,"Lupus Erythematosus, Discoid"
+DIS318,"Lupus Erythematosus, Systemic"
+DIS319,Lupus Nephritis
+DIS320,Lupus Vulgaris
+DIS321,"Lymphoma, Non-Hodgkin"
+DIS322,Lysinuric Protein Intolerance
+DIS323,"Macrocephaly, Dysmorphic Facies, And Psychomotor Retardation"
+DIS324,"Macular Degeneration, Age-Related, 1"
+DIS325,Malaria
+DIS326,"Malaria, Cerebral, Susceptibility To (Finding)"
+DIS327,"Malaria, Susceptibility To (Finding)"
+DIS328,Malignant Neoplasm Of Breast
+DIS329,Malignant Neoplasm Of Liver
+DIS330,Malignant Neoplasm Of Pancreas
+DIS331,Malignant Neoplasm Of Urinary Bladder
+DIS332,Malignant Neoplasms
+DIS333,Malignant Tumor Of Cervix
+DIS334,Malignant Tumor Of Colon
+DIS335,Mannose-Binding Protein Deficiency
+DIS336,Masp2 Deficiency
+DIS337,Medullary Carcinoma Of Thyroid
+DIS338,Megalencephalic Leukoencephalopathy With Subcortical Cysts
+DIS339,Megaloblastic Anemia Due To Inborn Errors Of Metabolism
+DIS340,Melanoma
+DIS341,"Melanoma, Cutaneous Malignant, Susceptibility To, 2"
+DIS342,Melanoma-Pancreatic Cancer Syndrome
+DIS343,Meleda Disease
+DIS344,Meningoencephalitis
+DIS345,"Mental Retardation, Autosomal Recessive 13"
+DIS346,"Mental Retardation, Autosomal Recessive 53"
+DIS347,Methylmalonic Acidemia
+DIS348,Methylmalonic Aciduria Due To Methylmalonyl-Coa Mutase Deficiency
+DIS349,"Microcephaly 4, Primary, Autosomal Recessive"
+DIS350,"Microcephaly, Epilepsy, And Diabetes Syndrome"
+DIS351,"Microcephaly, Primary Autosomal Recessive, 3"
+DIS352,"Microcephaly, Primary Autosomal Recessive, 5"
+DIS353,"Microphthalmia, Isolated 6"
+DIS354,"Microphthalmia, Syndromic 11"
+DIS355,Microphthalmos
+DIS356,"Minicore Myopathy, Moderate, With Hand Involvement"
+DIS357,Mitochondrial Complex I Deficiency
+DIS358,"Mononeuropathy Of The Median Nerve, Mild"
+DIS359,Mps Iii C
+DIS360,Muckle-Wells Syndrome
+DIS361,Mucopolysaccharidosis Iii
+DIS362,Mucopolysaccharidosis Type Iiia
+DIS363,"Multicore Myopathy, Moderate, With Hand Involvement"
+DIS364,"Multiminicore Disease, Moderate, With Hand Involvement"
+DIS365,Multiple Sclerosis
+DIS366,"Muscular Dystrophy, Congenital, 1C"
+DIS367,"Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain And Eye Anomalies), Type A, 9"
+DIS368,"Muscular Dystrophy, Limb-Girdle, Type 2I"
+DIS369,Mutilating Keratoderma
+DIS370,"Myasthenic Syndrome, Congenital, 12"
+DIS371,"Myasthenic Syndrome, Congenital, Associated With Acetylcholine Receptor Deficiency"
+DIS372,Myocardial Infarction
+DIS373,"Myoclonic Epilepsies, Progressive"
+DIS374,NAdh Cytochrome B5 Reductase Deficiency
+DIS375,NAdh:Q(1) Oxidoreductase Deficiency
+DIS376,"Necrotizing Encephalopathy, Infantile Subacute, Of Leigh"
+DIS377,Nemaline Myopathy 8
+DIS378,Neoplasm Metastasis
+DIS379,"Neoplastic Syndromes, Hereditary"
+DIS380,Nephritis
+DIS381,Neurodegeneration With Brain Iron Accumulation 4
+DIS382,Neurodegeneration With Brain Iron Accumulation (Nbia)
+DIS383,Neurodegenerative Disorders
+DIS384,"Neuromuscular Disease, Congenital, With Uniform Type 1 Fiber (Disorder)"
+DIS385,"Neuropathy, Hereditary Sensory, With Spastic Paraplegia, Autosomal Recessive"
+DIS386,Neutrophil Count (Procedure)
+DIS387,New Variant Creutzfeldt-Jakob Disease
+DIS388,"Niemann-Pick Disease, Type A"
+DIS389,"Niemann-Pick Disease, Type B"
+DIS390,"Niemann-Pick Disease, Type C"
+DIS391,"Niemann-Pick Disease, Type C2"
+DIS392,Nijmegen Breakage Syndrome
+DIS393,Nonnuclear Polymorphic Congenital Cataract
+DIS394,Nonsyndromic Deafness
+DIS395,Noonan Syndrome
+DIS396,Obesity
+DIS397,Oculocutaneous Albinism Type 1
+DIS398,Oculocutaneous Albinism Type 2
+DIS399,Optic Atrophy 7 (Disorder)
+DIS400,"Optic Atrophy, Hereditary, Leber"
+DIS401,"Osteogenesis Imperfecta, Recessive Perinatal Lethal"
+DIS402,Osteogenesis Imperfecta Type Iii (Disorder)
+DIS403,Osteogenesis Imperfecta Type Vii
+DIS404,"Osteogenesis Imperfecta, Type Viii"
+DIS405,"Osteogenesis Imperfecta, Type Xiii"
+DIS406,Other Creutzfeldt-Jakob Disease
+DIS407,Overweight
+DIS408,Palmoplantar Keratoderma With Deafness
+DIS409,Palmoplantar Keratosis
+DIS410,Pancreatic Carcinoma
+DIS411,Pancreatic Ductal Adenocarcinoma
+DIS412,Pancreatitis
+DIS413,"Pancreatitis, Chronic"
+DIS414,Panhypopituitarism
+DIS415,Papillon-Lefevre Disease
+DIS416,Parkinson Disease
+DIS417,"Parkinson Disease 11, Autosomal Dominant"
+DIS418,"Parkinson Disease 6, Autosomal Recessive Early-Onset"
+DIS419,"Parkinson Disease 6, Late-Onset, Susceptibility To"
+DIS420,Parkinson Disease 8 (Disorder)
+DIS421,"Parkinson Disease, Familial, Type 1"
+DIS422,"Parkinson Disease, Late-Onset"
+DIS423,Parkinsonian Disorders
+DIS424,Peeling Skin Syndrome
+DIS425,Peeling Skin Syndrome 5
+DIS426,"Peeling Skin Syndrome, Acral Type"
+DIS427,Pendred'S Syndrome
+DIS428,"Periodontitis, Juvenile"
+DIS429,Pfaundler-Hurler Syndrome
+DIS430,"Phenylketonuria, Maternal"
+DIS431,Phenylketonurias
+DIS432,Pheochromocytoma
+DIS433,Piebaldism
+DIS434,Piebaldism With Sensorineural Deafness
+DIS435,Pituitary Dwarfism Type 3
+DIS436,Pneumococcal Bacteraemia
+DIS437,Poikiloderma Of Kindler
+DIS438,Poikiloderma With Neutropenia
+DIS439,Polycystic Ovarian Disease Due To 17-Ketosteroid Reductase Deficiency
+DIS440,Polycystic Ovary Syndrome
+DIS441,Polycythemia Vera
+DIS442,"Polyendocrinopathies, Autoimmune"
+DIS443,"Polyglandular Deficiency Syndrome, Persian-Jewish Type"
+DIS444,Polyglandular Type I Autoimmune Syndrome
+DIS445,"Polymicrogyria, Bilateral Occipital"
+DIS446,"Polymicrogyria, Bilateral Temporooccipital"
+DIS447,"Polyposis, Adenomatous Intestinal"
+DIS448,"Pontocerebellar Hypoplasia, Type 2D"
+DIS449,"Pontocerebellar Hypoplasia, Type 2E"
+DIS450,"Porphyria, Acute Intermittent, Nonerythroid Variant"
+DIS451,Porphyria Cutanea Tarda
+DIS452,"Porphyria, South African Type"
+DIS453,Precursor Cell Lymphoblastic Leukemia Lymphoma
+DIS454,Primary Congenital Glaucoma
+DIS455,"Primary Hyperoxaluria, Type I"
+DIS456,Primary Myelofibrosis
+DIS457,Prion Diseases
+DIS458,Progeria
+DIS459,"Progressive Familial Heart Block, Type Ib"
+DIS460,Progressive Supranuclear Palsy
+DIS461,Prostate Carcinoma
+DIS462,Pseudoxanthoma Elasticum
+DIS463,"Pseudoxanthoma Elasticum, Modifier Of Severity Of"
+DIS464,Psoriasis
+DIS465,Psoriasis 2
+DIS466,Psoriasis Vulgaris
+DIS467,"Pxe, Modifier Of Severity Of"
+DIS468,Rabson-Mendenhall Syndrome
+DIS469,Rectal Carcinoma
+DIS470,"Respiratory Distress Syndrome, Newborn"
+DIS471,Retinitis Pigmentosa
+DIS472,Retinitis Pigmentosa 14
+DIS473,Retinitis Pigmentosa 2 (Disorder)
+DIS474,Retinitis Pigmentosa 38 (Disorder)
+DIS475,Retinitis Pigmentosa 40 (Disorder)
+DIS476,Retinitis Pigmentosa 73
+DIS477,Retinitis Pigmentosa 74
+DIS478,Retinoblastoma
+DIS479,Rett Syndrome
+DIS480,Rheumatoid Arthritis
+DIS481,Romano-Ward Syndrome
+DIS482,Saldino-Noonan Syndrome
+DIS483,Schizophrenia
+DIS484,Secondary Malignant Neoplasm Of Lymph Node
+DIS485,Senile Cardiac Amyloidosis
+DIS486,Senter Syndrome
+DIS487,Severe Autosomal Recessive Muscular Dystrophy Of Childhood - North African Type (Disorder)
+DIS488,Severe Combined Immunodeficiency
+DIS489,"Short Rib-Polydactyly Syndrome, Verma-NAumoff Type"
+DIS490,Shprintzen-Goldberg Syndrome
+DIS491,Sickle Cell Trait
+DIS492,Sickle Cell Trait/ Trachoma
+DIS493,Sitosterolemia
+DIS494,"Skin Creases, Congenital Symmetric Circumferential, 2"
+DIS495,"Skin-Hair-Eye Pigmentation, Variation In, 4"
+DIS496,"Spastic Ataxia, Charlevoix-Saguenay Type"
+DIS497,"Spastic Paraplegia 11, Autosomal Recessive"
+DIS498,"Spastic Paraplegia 15, Autosomal Recessive"
+DIS499,"Spastic Paraplegia 30, Autosomal Recessive (Disorder)"
+DIS500,"Spastic Paraplegia 43, Autosomal Recessive"
+DIS501,"Spastic Paraplegia 46, Autosomal Recessive"
+DIS502,"Spastic Paraplegia 4, Autosomal Dominant"
+DIS503,"Spastic Paraplegia 5A, Autosomal Recessive (Disorder)"
+DIS504,"Spastic Paraplegia 7, Autosomal Recessive"
+DIS505,"Spherocytosis, Type 5"
+DIS506,"Spinal Muscular Atrophy, Distal, Autosomal Recessive, 5"
+DIS507,Spinocerebellar Ataxia 23
+DIS508,Sporadic Parkinson Disease
+DIS509,Stargardt Disease 1 (Disorder)
+DIS510,Stevens-Johnson Syndrome
+DIS511,Stickler Syndrome (Disorder)
+DIS512,"Stickler Syndrome, Type 1"
+DIS513,"Stickler Syndrome, Type Iv"
+DIS514,Stomach Neoplasms
+DIS515,Stuttering
+DIS516,"Stuttering, Developmental"
+DIS517,"Stuttering, Familial Persistent 1"
+DIS518,"Surfactant Metabolism Dysfunction, Pulmonary, 3"
+DIS519,Systemic Arterial Pressure
+DIS520,Systemic Onset Juvenile Chronic Arthritis
+DIS521,Tay-Sachs Disease
+DIS522,"Tay-Sachs Disease, Juvenile"
+DIS523,"Tay-Sachs Disease, Pseudo-Ab Variant"
+DIS524,"Tay-Sachs Disease, Variant B1"
+DIS525,"Thrombocythemia, Essential"
+DIS526,Toxic Epidermal Necrolysis
+DIS527,Transcolabamin Ii Deficiency
+DIS528,Tuberculosis
+DIS529,"Tuberculosis, Pulmonary"
+DIS530,"Tuberculosis, Spinal"
+DIS531,Unverricht-Lundborg Syndrome
+DIS532,Uric Acid Measurement (Procedure)
+DIS533,"Usher Syndrome, Type 2C"
+DIS534,"Usher Syndrome, Type I"
+DIS535,"Usher Syndrome, Type Ia, Formerly"
+DIS536,"Usher Syndrome, Type Ib (Disorder)"
+DIS537,"Usher Syndrome, Type Ic"
+DIS538,"Usher Syndrome, Type If"
+DIS539,"Usher Syndrome, Type I, French Variety, Formerly"
+DIS540,"Usher Syndrome, Type Iia"
+DIS541,Variegate Porphyria
+DIS542,"Variegate Porphyria, Homozygous Variant"
+DIS543,"Vitamin D Hydroxylation-Deficient Rickets, Type 1B"
+DIS544,Vitelliform Macular Dystrophy
+DIS545,Walker-Warburg Congenital Muscular Dystrophy
+DIS546,Warburg Sjo Fledelius Syndrome
+DIS547,"West Nile Virus, Susceptibility To (Finding)"
+DIS548,White Blood Cell Count Quantitative Trait Locus 1
+DIS549,"Xanthomatosis, Cerebrotendinous"
+DIS550,"Xeroderma Pigmentosum, Complementation Group C"
+DIS551,"Xeroderma Pigmentosum, Group A"
+DIS552,X-Linked Adrenal Hypoplasia
